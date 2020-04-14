@@ -1,0 +1,17 @@
+{
+  "name": "ship-sim",
+  "version": "1.0.0",
+  "description": "ship bouyancy simulator",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./dev/index.html",
+    "build": "parcel build ./dev/index.html -d ./"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^3.8.3"
+  }
+}
