@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel index.html",
-    "build": "parcel build index.html -d ./docs/ --public-url https://github.com/jgrazian/2d-bouyancy-sim/tree/master/docs"
+    "build": "parcel build index.html -d ./docs/ --public-url /2d-bouyancy-sim"
   },
   "author": "jgrazian",
   "license": "MIT",
